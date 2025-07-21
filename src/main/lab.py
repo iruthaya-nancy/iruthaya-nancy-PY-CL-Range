@@ -4,7 +4,7 @@ def range_with_stop(stop):
     of integers from zero to stop-1 and return the list.
 
     :param stop: The stop value for the range.
-    :return: A sequence of integers.
+    :return: A sequence of integers..
     """
     return 0
 
