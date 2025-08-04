@@ -1,6 +1,4 @@
-import unittest
-from src.main.lab import *
-
+from src.main.lab import range_with_stop, range_with_start_stop, range_with_start_stop_step
 
 class TestRangeFunctions(unittest.TestCase):
     def test_range_with_stop(self):
